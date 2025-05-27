@@ -1,4 +1,4 @@
-# 🌟 Sakshi Raghorte - Data Science & AI Portfolio
+# 🌟 Sakshi Raghorte 
 
 Welcome to my GitHub portfolio! I'm **Sakshi Raghorte**, a B.Tech graduate in **Artificial Intelligence and Data Science** from Priyadarshini College of Engineering, Nagpur with 7.97 CGPA.
 
